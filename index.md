@@ -1,9 +1,9 @@
 ## Thanks for giving ReDi a try
 
-Depending on your phone, please
+Depending on your phone, please join
 
-- [join Google Play Store Test](https://play.google.com/apps/testing/ai.medel.redi)
-- [join Apple App Store Testflight](https://testflight.apple.com/join/6FPJhLDr)
+- [Google Play Store Test](https://play.google.com/apps/testing/ai.medel.redi)
+- [Apple App Store Testflight](https://testflight.apple.com/join/6FPJhLDr)
 
 ### Support or Contact
 
